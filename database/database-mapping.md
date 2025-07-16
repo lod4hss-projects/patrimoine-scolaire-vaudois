@@ -1,0 +1,3014 @@
+
+### analyse_media 
+<br/>
+<table>
+            <tr>
+                <th>Champ</th>
+                <th>Mapping</th>
+                <th>Notes</th>
+            </tr><tr>
+    <td>analyse_id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>media_id</td>
+    <td></td>
+    <td></td>
+</tr></table> 
+<br/>
+
+### analyse_translations 
+<br/>
+<table>
+            <tr>
+                <th>Champ</th>
+                <th>Mapping</th>
+                <th>Notes</th>
+            </tr><tr>
+    <td>id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>analyse_id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>locale</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>title</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>translug</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>subtitle</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>content</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>big_content</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>annee_texte</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>visite</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>keywords</td>
+    <td></td>
+    <td></td>
+</tr></table> 
+<br/>
+
+### analyses 
+<br/>
+<table>
+            <tr>
+                <th>Champ</th>
+                <th>Mapping</th>
+                <th>Notes</th>
+            </tr><tr>
+    <td>id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>name</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>analysessubcat_id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>slug</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>auteur</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>annee</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>edition</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>editeur</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>lieu</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>format</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>url</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>niveau_scolaire</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>provenance</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>num_inventaire</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>annee_precise</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>prix</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>stock</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>nb_ventes_autorisees</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>team_comment</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>localisation</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>etat</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>begin</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>end</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>revisions</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>cherchable</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>online</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>views</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>created_at</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>updated_at</td>
+    <td></td>
+    <td></td>
+</tr></table> 
+<br/>
+
+### analysescat_translations 
+<br/>
+<table>
+            <tr>
+                <th>Champ</th>
+                <th>Mapping</th>
+                <th>Notes</th>
+            </tr><tr>
+    <td>id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>analysescat_id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>locale</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>title</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>translug</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>content</td>
+    <td></td>
+    <td></td>
+</tr></table> 
+<br/>
+
+### analysescats 
+<br/>
+<table>
+            <tr>
+                <th>Champ</th>
+                <th>Mapping</th>
+                <th>Notes</th>
+            </tr><tr>
+    <td>id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>name</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>slug</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>online</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>begin</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>end</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>created_at</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>updated_at</td>
+    <td></td>
+    <td></td>
+</tr></table> 
+<br/>
+
+### analysessubcat_translations 
+<br/>
+<table>
+            <tr>
+                <th>Champ</th>
+                <th>Mapping</th>
+                <th>Notes</th>
+            </tr><tr>
+    <td>id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>analysessubcat_id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>locale</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>title</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>translug</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>content</td>
+    <td></td>
+    <td></td>
+</tr></table> 
+<br/>
+
+### analysessubcats 
+<br/>
+<table>
+            <tr>
+                <th>Champ</th>
+                <th>Mapping</th>
+                <th>Notes</th>
+            </tr><tr>
+    <td>id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>name</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>analysescat_id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>slug</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>online</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>begin</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>end</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>created_at</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>updated_at</td>
+    <td></td>
+    <td></td>
+</tr></table> 
+<br/>
+
+### audiovisuel_translations 
+<br/>
+<table>
+            <tr>
+                <th>Champ</th>
+                <th>Mapping</th>
+                <th>Notes</th>
+            </tr><tr>
+    <td>id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>audiovisuel_id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>locale</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>title</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>translug</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>subtitle</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>content</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>big_content</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>annee_texte</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>visite</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>keywords</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>videolink</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>online</td>
+    <td></td>
+    <td></td>
+</tr></table> 
+<br/>
+
+### audiovisuels 
+<br/>
+<table>
+            <tr>
+                <th>Champ</th>
+                <th>Mapping</th>
+                <th>Notes</th>
+            </tr><tr>
+    <td>id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>parent_cat</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>collection_id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>name</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>slug</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>auteur</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>annee</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>edition</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>editeur</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>lieu</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>format</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>url</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>niveau_scolaire</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>provenance</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>num_inventaire</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>annee_precise</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>prix</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>stock</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>nb_ventes_autorisees</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>team_comment</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>localisation</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>owner</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>etat</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>begin</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>end</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>revisions</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>cherchable</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>online</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>views</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>created_at</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>updated_at</td>
+    <td></td>
+    <td></td>
+</tr></table> 
+<br/>
+
+### audiovisuelscat_translations 
+<br/>
+<table>
+            <tr>
+                <th>Champ</th>
+                <th>Mapping</th>
+                <th>Notes</th>
+            </tr><tr>
+    <td>id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>audiovisuelscat_id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>locale</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>title</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>translug</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>content</td>
+    <td></td>
+    <td></td>
+</tr></table> 
+<br/>
+
+### audiovisuelscats 
+<br/>
+<table>
+            <tr>
+                <th>Champ</th>
+                <th>Mapping</th>
+                <th>Notes</th>
+            </tr><tr>
+    <td>id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>name</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>slug</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>online</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>begin</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>end</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>created_at</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>updated_at</td>
+    <td></td>
+    <td></td>
+</tr></table> 
+<br/>
+
+### cahier_media 
+<br/>
+<table>
+            <tr>
+                <th>Champ</th>
+                <th>Mapping</th>
+                <th>Notes</th>
+            </tr><tr>
+    <td>cahier_id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>media_id</td>
+    <td></td>
+    <td></td>
+</tr></table> 
+<br/>
+
+### cahier_translations 
+<br/>
+<table>
+            <tr>
+                <th>Champ</th>
+                <th>Mapping</th>
+                <th>Notes</th>
+            </tr><tr>
+    <td>id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>cahier_id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>locale</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>title</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>translug</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>subtitle</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>content</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>big_content</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>annee_texte</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>visite</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>keywords</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>online</td>
+    <td></td>
+    <td></td>
+</tr></table> 
+<br/>
+
+### cahierbooks 
+<br/>
+<table>
+            <tr>
+                <th>Champ</th>
+                <th>Mapping</th>
+                <th>Notes</th>
+            </tr><tr>
+    <td>id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>cahier_id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>slug</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>begin</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>end</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>online</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>views</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>pages</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>width</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>height</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>created_at</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>updated_at</td>
+    <td></td>
+    <td></td>
+</tr></table> 
+<br/>
+
+### cahiers 
+<br/>
+<table>
+            <tr>
+                <th>Champ</th>
+                <th>Mapping</th>
+                <th>Notes</th>
+            </tr><tr>
+    <td>id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>parent_cat</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>collection_id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>name</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>slug</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>auteur</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>annee</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>edition</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>editeur</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>lieu</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>format</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>url</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>niveau_scolaire</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>provenance</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>num_inventaire</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>annee_precise</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>prix</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>stock</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>nb_ventes_autorisees</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>team_comment</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>localisation</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>owner</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>etat</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>begin</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>end</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>views</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>revisions</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>cherchable</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>searchable</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>online</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>created_at</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>updated_at</td>
+    <td></td>
+    <td></td>
+</tr></table> 
+<br/>
+
+### cahiers_medias 
+<br/>
+<table>
+            <tr>
+                <th>Champ</th>
+                <th>Mapping</th>
+                <th>Notes</th>
+            </tr><tr>
+    <td>id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>name</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>slug</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>original_filename</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>filename</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>extension</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>type</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>size</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>video_id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>gallery_name</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>gallery_slug</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>folder_name</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>folder_slug</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>alternatif</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>title</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>clickTag</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>artwork</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>uploaded</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>position</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>lang</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>created</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>revisions</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>last_modified</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>cahiers_id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>online</td>
+    <td></td>
+    <td></td>
+</tr></table> 
+<br/>
+
+### cahierscat_translations 
+<br/>
+<table>
+            <tr>
+                <th>Champ</th>
+                <th>Mapping</th>
+                <th>Notes</th>
+            </tr><tr>
+    <td>id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>cahierscat_id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>locale</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>title</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>translug</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>content</td>
+    <td></td>
+    <td></td>
+</tr></table> 
+<br/>
+
+### cahierscats 
+<br/>
+<table>
+            <tr>
+                <th>Champ</th>
+                <th>Mapping</th>
+                <th>Notes</th>
+            </tr><tr>
+    <td>id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>name</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>slug</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>online</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>begin</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>end</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>created_at</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>updated_at</td>
+    <td></td>
+    <td></td>
+</tr></table> 
+<br/>
+
+### carte_media 
+<br/>
+<table>
+            <tr>
+                <th>Champ</th>
+                <th>Mapping</th>
+                <th>Notes</th>
+            </tr><tr>
+    <td>carte_id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>media_id</td>
+    <td></td>
+    <td></td>
+</tr></table> 
+<br/>
+
+### carte_translations 
+<br/>
+<table>
+            <tr>
+                <th>Champ</th>
+                <th>Mapping</th>
+                <th>Notes</th>
+            </tr><tr>
+    <td>id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>carte_id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>locale</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>title</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>translug</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>subtitle</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>content</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>big_content</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>annee_texte</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>visite</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>keywords</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>online</td>
+    <td></td>
+    <td></td>
+</tr></table> 
+<br/>
+
+### cartes 
+<br/>
+<table>
+            <tr>
+                <th>Champ</th>
+                <th>Mapping</th>
+                <th>Notes</th>
+            </tr><tr>
+    <td>id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>parent_cat</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>collection_id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>name</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>slug</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>auteur</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>annee</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>edition</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>editeur</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>lieu</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>format</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>url</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>niveau_scolaire</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>provenance</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>num_inventaire</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>annee_precise</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>prix</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>stock</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>nb_ventes_autorisees</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>team_comment</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>localisation</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>owner</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>etat</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>begin</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>end</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>revisions</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>cherchable</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>online</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>views</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>created_at</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>updated_at</td>
+    <td></td>
+    <td></td>
+</tr></table> 
+<br/>
+
+### cartescat_translations 
+<br/>
+<table>
+            <tr>
+                <th>Champ</th>
+                <th>Mapping</th>
+                <th>Notes</th>
+            </tr><tr>
+    <td>id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>cartescat_id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>locale</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>title</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>translug</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>content</td>
+    <td></td>
+    <td></td>
+</tr></table> 
+<br/>
+
+### cartescats 
+<br/>
+<table>
+            <tr>
+                <th>Champ</th>
+                <th>Mapping</th>
+                <th>Notes</th>
+            </tr><tr>
+    <td>id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>name</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>slug</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>online</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>begin</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>end</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>created_at</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>updated_at</td>
+    <td></td>
+    <td></td>
+</tr></table> 
+<br/>
+
+### collection_translations 
+<br/>
+<table>
+            <tr>
+                <th>Champ</th>
+                <th>Mapping</th>
+                <th>Notes</th>
+            </tr><tr>
+    <td>id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>collection_id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>locale</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>title</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>translug</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>content</td>
+    <td></td>
+    <td></td>
+</tr></table> 
+<br/>
+
+### collections 
+<br/>
+<table>
+            <tr>
+                <th>Champ</th>
+                <th>Mapping</th>
+                <th>Notes</th>
+            </tr><tr>
+    <td>id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>name</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>slug</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>ressource</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>position</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>begin</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>end</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>created_at</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>updated_at</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>online</td>
+    <td></td>
+    <td></td>
+</tr></table> 
+<br/>
+
+### communication_translations 
+<br/>
+<table>
+            <tr>
+                <th>Champ</th>
+                <th>Mapping</th>
+                <th>Notes</th>
+            </tr><tr>
+    <td>id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>communication_id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>locale</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>title</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>translug</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>subtitle</td>
+    <td></td>
+    <td></td>
+</tr></table> 
+<br/>
+
+### communications 
+<br/>
+<table>
+            <tr>
+                <th>Champ</th>
+                <th>Mapping</th>
+                <th>Notes</th>
+            </tr><tr>
+    <td>id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>name</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>slug</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>position</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>url</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>begin</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>end</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>online</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>views</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>created_at</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>updated_at</td>
+    <td></td>
+    <td></td>
+</tr></table> 
+<br/>
+
+### document_media 
+<br/>
+<table>
+            <tr>
+                <th>Champ</th>
+                <th>Mapping</th>
+                <th>Notes</th>
+            </tr><tr>
+    <td>document_id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>media_id</td>
+    <td></td>
+    <td></td>
+</tr></table> 
+<br/>
+
+### document_translations 
+<br/>
+<table>
+            <tr>
+                <th>Champ</th>
+                <th>Mapping</th>
+                <th>Notes</th>
+            </tr><tr>
+    <td>id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>document_id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>locale</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>title</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>translug</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>subtitle</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>content</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>big_content</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>annee_texte</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>visite</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>keywords</td>
+    <td></td>
+    <td></td>
+</tr></table> 
+<br/>
+
+### documentbooks 
+<br/>
+<table>
+            <tr>
+                <th>Champ</th>
+                <th>Mapping</th>
+                <th>Notes</th>
+            </tr><tr>
+    <td>id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>document_id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>slug</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>begin</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>end</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>online</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>views</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>pages</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>width</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>height</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>created_at</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>updated_at</td>
+    <td></td>
+    <td></td>
+</tr></table> 
+<br/>
+
+### documents 
+<br/>
+<table>
+            <tr>
+                <th>Champ</th>
+                <th>Mapping</th>
+                <th>Notes</th>
+            </tr><tr>
+    <td>id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>parent_cat</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>collection_id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>name</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>slug</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>auteur</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>annee</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>edition</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>editeur</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>lieu</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>format</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>url</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>niveau_scolaire</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>provenance</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>num_inventaire</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>annee_precise</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>prix</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>stock</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>nb_ventes_autorisees</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>team_comment</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>localisation</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>owner</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>etat</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>begin</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>end</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>revisions</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>cherchable</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>online</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>views</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>created_at</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>updated_at</td>
+    <td></td>
+    <td></td>
+</tr></table> 
+<br/>
+
+### documentscat_translations 
+<br/>
+<table>
+            <tr>
+                <th>Champ</th>
+                <th>Mapping</th>
+                <th>Notes</th>
+            </tr><tr>
+    <td>id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>documentscat_id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>locale</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>title</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>translug</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>content</td>
+    <td></td>
+    <td></td>
+</tr></table> 
+<br/>
+
+### documentscats 
+<br/>
+<table>
+            <tr>
+                <th>Champ</th>
+                <th>Mapping</th>
+                <th>Notes</th>
+            </tr><tr>
+    <td>id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>name</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>slug</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>online</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>begin</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>end</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>created_at</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>updated_at</td>
+    <td></td>
+    <td></td>
+</tr></table> 
+<br/>
+
+### livre_media 
+<br/>
+<table>
+            <tr>
+                <th>Champ</th>
+                <th>Mapping</th>
+                <th>Notes</th>
+            </tr><tr>
+    <td>livre_id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>media_id</td>
+    <td></td>
+    <td></td>
+</tr></table> 
+<br/>
+
+### livre_translations 
+<br/>
+<table>
+            <tr>
+                <th>Champ</th>
+                <th>Mapping</th>
+                <th>Notes</th>
+            </tr><tr>
+    <td>id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>livre_id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>locale</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>title</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>translug</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>subtitle</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>content</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>big_content</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>annee_texte</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>visite</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>revisions</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>keywords</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>online</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>created_at</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>updated_at</td>
+    <td></td>
+    <td></td>
+</tr></table> 
+<br/>
+
+### livres 
+<br/>
+<table>
+            <tr>
+                <th>Champ</th>
+                <th>Mapping</th>
+                <th>Notes</th>
+            </tr><tr>
+    <td>id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>parent_cat</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>collection_id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>name</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>slug</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>auteur</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>annee</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>edition</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>editeur</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>lieu</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>format</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>url</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>niveau_scolaire</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>provenance</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>num_inventaire</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>annee_precise</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>prix</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>stock</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>nb_ventes_autorisees</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>team_comment</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>localisation</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>owner</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>etat</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>begin</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>end</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>views</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>revisions</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>cherchable</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>searchable</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>online</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>created_at</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>updated_at</td>
+    <td></td>
+    <td></td>
+</tr></table> 
+<br/>
+
+### livres_medias 
+<br/>
+<table>
+            <tr>
+                <th>Champ</th>
+                <th>Mapping</th>
+                <th>Notes</th>
+            </tr><tr>
+    <td>id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>name</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>slug</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>original_filename</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>filename</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>extension</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>type</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>size</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>video_id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>gallery_name</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>gallery_slug</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>folder_name</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>folder_slug</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>alternatif</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>title</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>clickTag</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>artwork</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>uploaded</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>position</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>lang</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>created</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>revisions</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>last_modified</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>livres_id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>online</td>
+    <td></td>
+    <td></td>
+</tr></table> 
+<br/>
+
+### livrescat_translations 
+<br/>
+<table>
+            <tr>
+                <th>Champ</th>
+                <th>Mapping</th>
+                <th>Notes</th>
+            </tr><tr>
+    <td>id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>livrescat_id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>locale</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>title</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>translug</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>content</td>
+    <td></td>
+    <td></td>
+</tr></table> 
+<br/>
+
+### livrescats 
+<br/>
+<table>
+            <tr>
+                <th>Champ</th>
+                <th>Mapping</th>
+                <th>Notes</th>
+            </tr><tr>
+    <td>id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>name</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>slug</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>online</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>begin</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>end</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>created_at</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>updated_at</td>
+    <td></td>
+    <td></td>
+</tr></table> 
+<br/>
+
+### media_mobilier 
+<br/>
+<table>
+            <tr>
+                <th>Champ</th>
+                <th>Mapping</th>
+                <th>Notes</th>
+            </tr><tr>
+    <td>mobilier_id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>media_id</td>
+    <td></td>
+    <td></td>
+</tr></table> 
+<br/>
+
+### media_photo 
+<br/>
+<table>
+            <tr>
+                <th>Champ</th>
+                <th>Mapping</th>
+                <th>Notes</th>
+            </tr><tr>
+    <td>media_id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>photo_id</td>
+    <td></td>
+    <td></td>
+</tr></table> 
+<br/>
+
+### media_product 
+<br/>
+<table>
+            <tr>
+                <th>Champ</th>
+                <th>Mapping</th>
+                <th>Notes</th>
+            </tr><tr>
+    <td>product_id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>media_id</td>
+    <td></td>
+    <td></td>
+</tr></table> 
+<br/>
+
+### medias 
+<br/>
+<table>
+            <tr>
+                <th>Champ</th>
+                <th>Mapping</th>
+                <th>Notes</th>
+            </tr><tr>
+    <td>id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>filename</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>original_filename</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>extension</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>type</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>filesize</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>created_at</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>updated_at</td>
+    <td></td>
+    <td></td>
+</tr></table> 
+<br/>
+
+### mobilier_translations 
+<br/>
+<table>
+            <tr>
+                <th>Champ</th>
+                <th>Mapping</th>
+                <th>Notes</th>
+            </tr><tr>
+    <td>id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>mobilier_id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>locale</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>title</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>translug</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>subtitle</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>content</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>big_content</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>annee_texte</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>visite</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>keywords</td>
+    <td></td>
+    <td></td>
+</tr></table> 
+<br/>
+
+### mobiliers 
+<br/>
+<table>
+            <tr>
+                <th>Champ</th>
+                <th>Mapping</th>
+                <th>Notes</th>
+            </tr><tr>
+    <td>id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>parent_cat</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>collection_id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>name</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>slug</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>annee</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>lieu</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>fabrication</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>format</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>url</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>niveau_scolaire</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>provenance</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>num_inventaire</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>annee_precise</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>prix</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>stock</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>nb_ventes_autorisees</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>team_comment</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>localisation</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>owner</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>etat</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>begin</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>end</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>revisions</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>cherchable</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>online</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>views</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>created_at</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>updated_at</td>
+    <td></td>
+    <td></td>
+</tr></table> 
+<br/>
+
+### mobilierscat_translations 
+<br/>
+<table>
+            <tr>
+                <th>Champ</th>
+                <th>Mapping</th>
+                <th>Notes</th>
+            </tr><tr>
+    <td>id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>mobilierscat_id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>locale</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>title</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>translug</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>content</td>
+    <td></td>
+    <td></td>
+</tr></table> 
+<br/>
+
+### mobilierscats 
+<br/>
+<table>
+            <tr>
+                <th>Champ</th>
+                <th>Mapping</th>
+                <th>Notes</th>
+            </tr><tr>
+    <td>id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>name</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>slug</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>online</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>begin</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>end</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>created_at</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>updated_at</td>
+    <td></td>
+    <td></td>
+</tr></table> 
+<br/>
+
+### objects 
+<br/>
+<table>
+            <tr>
+                <th>Champ</th>
+                <th>Mapping</th>
+                <th>Notes</th>
+            </tr><tr>
+    <td>id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>mobilier_id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>slug</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>begin</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>end</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>online</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>views</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>created_at</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>updated_at</td>
+    <td></td>
+    <td></td>
+</tr></table> 
+<br/>
+
+### photo_translations 
+<br/>
+<table>
+            <tr>
+                <th>Champ</th>
+                <th>Mapping</th>
+                <th>Notes</th>
+            </tr><tr>
+    <td>id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>photo_id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>locale</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>title</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>translug</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>subtitle</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>content</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>big_content</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>annee_texte</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>visite</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>keywords</td>
+    <td></td>
+    <td></td>
+</tr></table> 
+<br/>
+
+### photobooks 
+<br/>
+<table>
+            <tr>
+                <th>Champ</th>
+                <th>Mapping</th>
+                <th>Notes</th>
+            </tr><tr>
+    <td>id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>photo_id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>slug</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>begin</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>end</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>online</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>views</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>pages</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>width</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>height</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>created_at</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>updated_at</td>
+    <td></td>
+    <td></td>
+</tr></table> 
+<br/>
+
+### photos 
+<br/>
+<table>
+            <tr>
+                <th>Champ</th>
+                <th>Mapping</th>
+                <th>Notes</th>
+            </tr><tr>
+    <td>id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>parent_cat</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>collection_id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>name</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>slug</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>auteur</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>annee</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>edition</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>editeur</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>lieu</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>format</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>url</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>niveau_scolaire</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>provenance</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>owner</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>num_inventaire</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>annee_precise</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>prix</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>stock</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>nb_ventes_autorisees</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>team_comment</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>localisation</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>etat</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>begin</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>end</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>revisions</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>cherchable</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>online</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>views</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>created_at</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>updated_at</td>
+    <td></td>
+    <td></td>
+</tr></table> 
+<br/>
+
+### photoscat_translations 
+<br/>
+<table>
+            <tr>
+                <th>Champ</th>
+                <th>Mapping</th>
+                <th>Notes</th>
+            </tr><tr>
+    <td>id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>photoscat_id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>locale</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>title</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>translug</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>content</td>
+    <td></td>
+    <td></td>
+</tr></table> 
+<br/>
+
+### photoscats 
+<br/>
+<table>
+            <tr>
+                <th>Champ</th>
+                <th>Mapping</th>
+                <th>Notes</th>
+            </tr><tr>
+    <td>id</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>name</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>slug</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>online</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>begin</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>end</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>created_at</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>updated_at</td>
+    <td></td>
+    <td></td>
+</tr></table> 
+<br/>
